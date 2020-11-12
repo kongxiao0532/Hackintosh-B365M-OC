@@ -1,5 +1,5 @@
 ## Software
-- OpenCore 0.6.2
+- OpenCore 0.6.3
 - macOS Catalina 10.15.7
 ## Hardware
 |    |  Model  |
