@@ -1,6 +1,6 @@
 ## Software
 - OpenCore 0.6.3
-- macOS Catalina 10.15.7
+- macOS Big Sur 11.0.1 
 ## Hardware
 |    |  Model  |
 |---|---|
@@ -11,7 +11,8 @@
 |  GPU  |  ~~Intel UHD Graphics 630~~ Dataland Readeon RX570 4G X-Serial  |
 |  NIC  |  Intel i219V  |
 |  Wireless NIC/Bt  |  Broadcom BCM94360CD  |
-|  Monitor  |  AOC Q2490W1 2560*1440 $\times$ 2  |
+|  Monitor  |  AOC Q2490W1 2560*1440 * 2  |
 |||
 ## Known Issues
 - (UHD 630) Cannot detect monitor on HDMI port after sleeping in a dual monitor setting
+- xzhih/one-key-hidpi is not working in Big Sur, using mlch911/one-key-hidpi instead
