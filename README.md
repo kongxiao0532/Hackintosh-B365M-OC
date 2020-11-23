@@ -1,3 +1,7 @@
+# Screenshots
+![About](https://raw.githubusercontent.com/kongxiao0532/Hackintosh-B365M-OC/main/res/about.png)
+![Video](https://raw.githubusercontent.com/kongxiao0532/Hackintosh-B365M-OC/main/res/monitor.png)
+![Memory](https://raw.githubusercontent.com/kongxiao0532/Hackintosh-B365M-OC/main/res/memory.png)
 ## Guidance
 [OpenCore Desktop Guide: https://dortania.github.io/OpenCore-Install-Guide/](https://dortania.github.io/OpenCore-Install-Guide/)
 
