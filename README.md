@@ -1,3 +1,6 @@
+## Guidance
+[OpenCore Desktop Guide: https://dortania.github.io/OpenCore-Install-Guide/](https://dortania.github.io/OpenCore-Install-Guide/)
+
 ## Software
 - OpenCore 0.6.3
 - macOS Big Sur 11.0.1 
