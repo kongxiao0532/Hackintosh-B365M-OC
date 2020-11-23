@@ -1,7 +1,4 @@
-# Screenshots
-![About](https://raw.githubusercontent.com/kongxiao0532/Hackintosh-B365M-OC/main/res/about.png)
-![Video](https://raw.githubusercontent.com/kongxiao0532/Hackintosh-B365M-OC/main/res/monitor.png)
-![Memory](https://raw.githubusercontent.com/kongxiao0532/Hackintosh-B365M-OC/main/res/memory.png)
+
 ## Guidance
 [OpenCore Desktop Guide: https://dortania.github.io/OpenCore-Install-Guide/](https://dortania.github.io/OpenCore-Install-Guide/)
 
@@ -23,3 +20,9 @@
 ## Known Issues
 - (UHD 630) Cannot detect monitor on HDMI port after sleeping in a dual monitor setting
 - xzhih/one-key-hidpi is not working in Big Sur, using mlch911/one-key-hidpi instead
+
+
+# Screenshots
+![About](https://raw.githubusercontent.com/kongxiao0532/Hackintosh-B365M-OC/main/res/about.png)
+![Video](https://raw.githubusercontent.com/kongxiao0532/Hackintosh-B365M-OC/main/res/monitor.png)
+![Memory](https://raw.githubusercontent.com/kongxiao0532/Hackintosh-B365M-OC/main/res/memory.png)
