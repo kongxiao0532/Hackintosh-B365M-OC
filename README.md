@@ -4,7 +4,7 @@
 
 ## Software
 - OpenCore 0.6.6
-- macOS Big Sur 11.0.1 
+- macOS Big Sur 11.2.1 
 ## Hardware
 |    |  Model  |
 |---|---|
