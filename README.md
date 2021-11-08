@@ -3,8 +3,8 @@
 [OpenCore Desktop Guide: https://dortania.github.io/OpenCore-Install-Guide/](https://dortania.github.io/OpenCore-Install-Guide/)
 
 ## Software
-- OpenCore 0.6.6
-- macOS Big Sur 11.2.1 
+- OpenCore 0.7.5
+- macOS Monterey 12.0.1
 ## Hardware
 |    |  Model  |
 |---|---|
@@ -19,8 +19,8 @@
 |||
 ## Known Issues
 - (UHD 630) Cannot detect monitor on HDMI port after sleeping in a dual monitor setting
-- xzhih/one-key-hidpi is not working in Big Sur, using mlch911/one-key-hidpi instead
-
+- ~~xzhih/one-key-hidpi is not working in Big Sur, using mlch911/one-key-hidpi instead~~
+- Some USB ports do not work after updating to macOS 11.7.
 
 # Screenshots
 ![About](https://raw.githubusercontent.com/kongxiao0532/Hackintosh-B365M-OC/main/res/about.png)
